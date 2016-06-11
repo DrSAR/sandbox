@@ -1,5 +1,5 @@
 def reducer(a):
     '''
-    subtracts 2 from a number
+    subtracts 4 from a number
     '''
-    return a-2
+    return a-4
